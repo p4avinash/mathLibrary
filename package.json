@@ -1,0 +1,22 @@
+{
+  "name": "@p4avinash/math-library",
+  "version": "1.0.0",
+  "description": "collection of math related function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p4avinash/mathLibrary.git"
+  },
+  "keywords": [
+    "ML"
+  ],
+  "author": "p4avinash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p4avinash/mathLibrary/issues"
+  },
+  "homepage": "https://github.com/p4avinash/mathLibrary#readme"
+}

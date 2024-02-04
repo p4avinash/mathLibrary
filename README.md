@@ -4,8 +4,8 @@ This library consists of few mathematical functions. This package was only creat
 
 ## How To Use Package
 
-..1. Install the package by running the command " `javascript npm i @p4avinash/math-library ` "
-..2. Import the package where you want to use the package functions:
+1. Install the package by running the command " `javascript npm i @p4avinash/math-library ` "
+2. Import the package where you want to use the package functions:
 
 ```javascript
 //import the library

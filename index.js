@@ -101,5 +101,4 @@ const mathCollection = function () {
   return collections
 }
 
-// export { mathCollection }
 module.exports = mathCollection

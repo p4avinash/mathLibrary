@@ -9,11 +9,14 @@ This library consists of few mathematical functions. This package was only creat
 
 ```javascript
 //import the library
-const mathLib = require("math-library")
+import mathCollection from "@p4avinash/math-library"
 
 //create instance
-let m = mathLib()
+const m = mathCollection()
 
 //use the functions
 m.round(2.665)
 ```
+
+3. Make sure to set `type: "module"` in your package.json
+4. You're done with the setup, now enjoy... 🎉🎉

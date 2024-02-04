@@ -1,6 +1,6 @@
 {
   "name": "@p4avinash/math-library",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "collection of math related function",
   "main": "index.js",
   "scripts": {
